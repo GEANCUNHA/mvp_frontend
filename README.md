@@ -1,5 +1,5 @@
 
-Este pequeno projeto que representa o frontend de um MVP de um Gerenciador de Tarefas criado como demonstração de conhecimentos referente à disciplina:
+Este pequeno projeto representa o frontend de um MVP de um Gerenciador de Tarefas criado como demonstração de conhecimentos referente à disciplina:
  **Desenvolvimento Full Stack Básico** 
 
 ## Como executar 
