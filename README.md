@@ -4,8 +4,6 @@ Este pequeno projeto que representa o frontend de um MVP de um Gerenciador de Ta
 
 ## Como executar 
 
----
-## Como executar
 
 Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
 
