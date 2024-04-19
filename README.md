@@ -7,5 +7,5 @@ Este pequeno projeto representa o frontend de um MVP de um Gerenciador de Tarefa
 
 Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
 
-Para que este frontend possa realizar as operações adequadamente é importante que seja em execução o backend criado para este MVP.
+Para que este frontend possa realizar as operações adequadamente é importante que esteha em execução o backend criado para este MVP.
 
