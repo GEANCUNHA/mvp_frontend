@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Tarefas</title> 
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gerenciador de Tarefas</h1> 
+        <h2>Criar Nova Tarefa</h2>
+        <form id="taskForm">
+            <label for="title">Título:</label>
+            <input type="text" id="title" name="title" required>
+            <label for="description">Descrição:</label>
+            <textarea id="description" name="description" required></textarea>
+            <button type="submit">Criar Tarefa</button>
+        </form>
+        <div id="message"></div>
+
+        <h2>Lista de Tarefas</h2>
+        <table id="taskTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Título</th>
+                    <th>Descrição</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="taskList"></tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
